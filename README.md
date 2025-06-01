@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kelvin
-- 👀 I’m interested in web development with javascript, python and java
+- 👀 I’m interested in web development with typescript and java
 - 🌱 I’m currently learning javascript, python and java
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me kevthedev007@gmail.com
